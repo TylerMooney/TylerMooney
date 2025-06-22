@@ -1,6 +1,6 @@
 - 👋 Hi Hi, I’m Tyler
-- 👀 I’m interested in Project Management, Full-Stack, and Game Development
-- 🌱 I’m currently learning Front-End Development, Project Management, and Video Game Programming
+- 👀 I’m interested in Project Management and Game Development
+- 🌱 I’m currently learning Quality Assurance, Production Management, and Video Game Programming
 - 📫 You can reach me through my LinkedIn or Email
 
 <!---
